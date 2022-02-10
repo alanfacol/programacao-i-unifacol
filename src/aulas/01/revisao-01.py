@@ -19,7 +19,6 @@ itens = {
 resposta = input("Informe a palavra desejada: ")
 flag = False
 lista = None
-item = None
 palavra = None
 
 for item in itens:
