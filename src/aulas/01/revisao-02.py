@@ -1,4 +1,4 @@
-pessoas = {"Nome":[], "Idade":[]}
+pessoas = {"nome":[], "idade":[]}
 maior_nome = ''
 menor_nome = ''
 maior_idade = 0
@@ -6,11 +6,11 @@ menor_idade = 200
 
 for x in range(1,11):
     print("\n")
-    pessoas["Nome"].append(input(f'Informe o nome da pessoa nº {x}: '))
-    pessoas["Idade"].append(input(f'Informe o idade da pessoa nº {x}: '))
+    pessoas["nome"].append(input(f'Informe o nome da pessoa nº {x}: '))
+    pessoas["idade"].append(input(f'Informe o idade da pessoa nº {x}: '))
 
 print("\n")
-for nome, idade in zip(pessoas["Nome"], pessoas["Idade"]):
+for nome, idade in zip(pessoas["nome"], pessoas["idade"]):
     if int(idade) > int(maior_idade):
         maior_idade = idade
         maior_nome = nome

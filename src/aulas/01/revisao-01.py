@@ -1,18 +1,18 @@
 itens = {
-    "Animais":[
-        "Cavalo", "Coelho", "Vaca"
+    "animais":[
+        "cavalo", "coelho", "vaca", ""
     ],
-    "Alimentos":[
-        "Feijao", "Arroz", "Carne"
+    "alimentos":[
+        "feijao", "arroz", "carne"
     ],
-    "Veiculos":[
-        "Carro", "Moto", "Bicicleta"
+    "veiculos":[
+        "carro", "moto", "bicicleta"
     ],
-    "Artistas":[
-        "Latino", "Gustavo Lima", "Djavan"
+    "artistas":[
+        "latino", "gustavo lima", "djavan"
     ],
-    "Eletronicos":[
-        "Computador", "Celular", "Televisao"
+    "eletronicos":[
+        "computador", "celular", "televisao"
     ]
 }
 
