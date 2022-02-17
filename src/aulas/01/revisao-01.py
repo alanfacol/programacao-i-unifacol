@@ -1,18 +1,18 @@
 itens = {
     "animais":[
-        "cavalo", "coelho", "vaca", ""
+        "cavalo", "coelho", "vaca", "boi", "cachorro", "gato", "tartaruga", "leao", "tigre", "onça"
     ],
     "alimentos":[
-        "feijao", "arroz", "carne"
+        "feijao", "arroz", "frango", "miojo", "amendoin", "banana", "ovo", "leite", "pão", "queijo"
     ],
     "veiculos":[
-        "carro", "moto", "bicicleta"
+        "carro", "moto", "bicicleta", "caminhão", "carreta", "avião", "lancha", "helicoptero", "quadriciclo", "navio"
     ],
     "artistas":[
-        "latino", "gustavo lima", "djavan"
+        "latino", "gustavo lima", "djavan", "marilia mendonça", "alceu valença", "tierre", "leandro hassum", "toni ramos", "leonardo", "zeca pagodinho"
     ],
     "eletronicos":[
-        "computador", "celular", "televisao"
+        "computador", "celular", "televisao", "monitor", "mouse", "teclado", "calculadora", "ar condicionado", "ventilador", "cafeteira"
     ]
 }
 
