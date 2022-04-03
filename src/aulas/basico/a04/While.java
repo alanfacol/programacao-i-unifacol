@@ -1,4 +1,4 @@
-package aulas.a04;
+package aulas.basico.a04;
 
 public class While {
     public static void main(String[] args) {

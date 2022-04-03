@@ -1,8 +1,8 @@
-package aulas.a03;
+package aulas.basico.a03;
 
 import java.util.Scanner;
 
-public class Main {
+public class Condicionais {
     public static void main(String[] args) {
         String cor_semaforo;
 

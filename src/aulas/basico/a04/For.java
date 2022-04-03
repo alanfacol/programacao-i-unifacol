@@ -1,4 +1,4 @@
-package aulas.a04;
+package aulas.basico.a04;
 
 import java.util.Arrays;
 
