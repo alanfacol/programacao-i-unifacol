@@ -30,6 +30,6 @@ public class Pessoa {
 
     public int calcIdade(){
         SimpleDateFormat f = new SimpleDateFormat("yyyy");
-        return Integer.parseInt(f.format(new Date()));
+        return Integer.parseInt(f.format(new Date())) - this.getAnoNasc();
     }
 }
