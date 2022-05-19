@@ -1,4 +1,4 @@
-package aulas.poo.a02;
+package aulas.poo.aula02;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package aulas.basico.a03;
+package aulas.basico.aula03;
 
 import java.util.Scanner;
 

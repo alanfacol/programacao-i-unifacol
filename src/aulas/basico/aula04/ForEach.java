@@ -1,4 +1,4 @@
-package aulas.basico.a04;
+package aulas.basico.aula04;
 
 public class ForEach {
     public static void main(String[] args) {

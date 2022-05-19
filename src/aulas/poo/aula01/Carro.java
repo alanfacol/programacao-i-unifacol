@@ -1,4 +1,4 @@
-package aulas.poo.a01;
+package aulas.poo.aula01;
 
 public class Carro extends Veiculo {
 

@@ -1,4 +1,4 @@
-package exemplos.poo_pessoas;
+package exemplos.pessoas;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
