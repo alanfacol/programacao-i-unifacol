@@ -1,5 +1,7 @@
 package atividades.entidades.espaco;
 
+import java.util.ArrayList;
+
 import atividades.entidades.espaco.classes.EspacoSideral;
 import atividades.entidades.espaco.classes.Galaxia;
 import atividades.entidades.espaco.classes.Planeta;
@@ -32,8 +34,10 @@ public class Main {
         
         terra.setElemAtmosfera(elemsAtmosferaTerra);
         System.out.println(terra.calcTempoRotacao());
-        
-        viaLactia.getPlanetas().add(terra);        
+
+        viaLactia.setPlanetas(new ArrayList<Planeta>());
+        viaLactia.getPlanetas().add(terra);
+        espaco.setGalaxias(new ArrayList<Galaxia>());
         espaco.getGalaxias().add(viaLactia);
     }
 }
