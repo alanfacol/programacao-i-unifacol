@@ -3,10 +3,10 @@ package prova_final.servicos;
 import java.util.ArrayList;
 
 import prova_final.entidades.Time;
-import prova_final.interfaces.ITimeServico;
+import prova_final.interfaces.ITimeCrud;
 import prova_final.repositorios.TimeRepositorio;
 
-public class TimeServico implements ITimeServico {
+public class TimeServico implements ITimeCrud {
 
     private TimeRepositorio timeRepo = new TimeRepositorio();
 
