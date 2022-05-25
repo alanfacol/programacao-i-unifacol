@@ -12,4 +12,6 @@ public interface ITimeServico {
     public abstract void deletar(Time time);
 
     public abstract ArrayList<Time> pesquisar(String nome);
+    
+    public abstract ArrayList<Time> listarTodos();
 }
