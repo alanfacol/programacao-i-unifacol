@@ -1,9 +1,9 @@
-package prova_final.repositorios;
+package projeto_final.repositorios;
 
 import java.util.ArrayList;
 
-import prova_final.entidades.Time;
-import prova_final.interfaces.ITimeCrud;
+import projeto_final.entidades.Time;
+import projeto_final.interfaces.ITimeCrud;
 
 public class TimeRepositorio implements ITimeCrud {
     private ArrayList<Time> timeRepo = new ArrayList<Time>();

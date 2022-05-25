@@ -1,9 +1,9 @@
-package prova_final.servicos;
+package projeto_final.servicos;
 
 import java.util.ArrayList;
 
-import prova_final.entidades.Funcionario;
-import prova_final.interfaces.IFuncCrud;
+import projeto_final.entidades.Funcionario;
+import projeto_final.interfaces.IFuncCrud;
 
 public class FuncServico implements IFuncCrud{
 

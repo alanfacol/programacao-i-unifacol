@@ -1,4 +1,4 @@
-package prova_final.entidades;
+package projeto_final.entidades;
 
 public class Atleta extends Funcionario {
     private float imc;

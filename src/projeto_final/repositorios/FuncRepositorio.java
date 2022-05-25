@@ -1,9 +1,9 @@
-package prova_final.repositorios;
+package projeto_final.repositorios;
 
 import java.util.ArrayList;
 
-import prova_final.entidades.Funcionario;
-import prova_final.interfaces.IFuncCrud;
+import projeto_final.entidades.Funcionario;
+import projeto_final.interfaces.IFuncCrud;
 
 public class FuncRepositorio implements IFuncCrud {
     ArrayList<Funcionario> funcionarios = new ArrayList<Funcionario>(); 

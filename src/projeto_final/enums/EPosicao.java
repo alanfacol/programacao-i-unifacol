@@ -1,4 +1,4 @@
-package prova_final.enums;
+package projeto_final.enums;
 
 public enum EPosicao {
     ATACANTE,

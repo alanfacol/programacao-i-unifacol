@@ -1,4 +1,4 @@
-package prova_final.entidades;
+package projeto_final.entidades;
 
 public class Tecnico extends Atleta {
     private int qtdPremios;

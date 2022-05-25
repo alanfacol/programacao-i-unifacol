@@ -1,8 +1,8 @@
-package prova_final.entidades;
+package projeto_final.entidades;
 
 import java.util.Date;
 
-import prova_final.enums.ECartao;
+import projeto_final.enums.ECartao;
 
 public class Cartao {
     private ECartao cartao;

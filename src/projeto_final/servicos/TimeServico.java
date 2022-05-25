@@ -1,10 +1,10 @@
-package prova_final.servicos;
+package projeto_final.servicos;
 
 import java.util.ArrayList;
 
-import prova_final.entidades.Time;
-import prova_final.interfaces.ITimeCrud;
-import prova_final.repositorios.TimeRepositorio;
+import projeto_final.entidades.Time;
+import projeto_final.interfaces.ITimeCrud;
+import projeto_final.repositorios.TimeRepositorio;
 
 public class TimeServico implements ITimeCrud {
 

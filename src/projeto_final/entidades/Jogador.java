@@ -1,8 +1,8 @@
-package prova_final.entidades;
+package projeto_final.entidades;
 
 import java.util.ArrayList;
 
-import prova_final.enums.EPosicao;
+import projeto_final.enums.EPosicao;
 
 public class Jogador extends Atleta {
     private EPosicao posicao;

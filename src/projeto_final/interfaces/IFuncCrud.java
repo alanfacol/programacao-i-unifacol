@@ -1,8 +1,8 @@
-package prova_final.interfaces;
+package projeto_final.interfaces;
 
 import java.util.ArrayList;
 
-import prova_final.entidades.Funcionario;
+import projeto_final.entidades.Funcionario;
 
 public interface IFuncCrud {
     public abstract void cadastrar(Funcionario func);

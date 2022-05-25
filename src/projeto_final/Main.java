@@ -1,12 +1,12 @@
-package prova_final;
+package projeto_final;
 
 import java.util.ArrayList;
 
-import prova_final.entidades.Tecnico;
-import prova_final.entidades.Jogador;
-import prova_final.entidades.Time;
-import prova_final.enums.EPosicao;
-import prova_final.servicos.TimeServico;
+import projeto_final.entidades.Jogador;
+import projeto_final.entidades.Tecnico;
+import projeto_final.entidades.Time;
+import projeto_final.enums.EPosicao;
+import projeto_final.servicos.TimeServico;
 
 public class Main {
     public static void main(String[] args) {
