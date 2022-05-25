@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import prova_final.entidades.Time;
 
-public interface ITimeRepo {
+public interface ITimeCrud {
     public abstract void cadastrar(Time time);
 
     public abstract void alterar(Time time);
