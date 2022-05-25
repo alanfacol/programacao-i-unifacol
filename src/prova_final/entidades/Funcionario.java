@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class Funcionario extends Pessoa {
     private float salario;
+    private String setor;
     private Date dataContrato;
     private Date dataRenovacao;
     private int anosContrato;
@@ -14,6 +15,14 @@ public class Funcionario extends Pessoa {
 
     public void setSalario(float salario) {
         this.salario = salario;
+    }
+
+    public String getSetor() {
+        return setor;
+    }
+
+    public void setSetor(String setor) {
+        this.setor = setor;
     }
 
     public Date getDataContrato() {
