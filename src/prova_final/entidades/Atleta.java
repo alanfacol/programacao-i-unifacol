@@ -1,6 +1,6 @@
 package prova_final.entidades;
 
-public class Atleta {
+public class Atleta extends Funcionario {
     private float imc;
     private int anosExp;
 
